@@ -44,7 +44,6 @@ for team in teams:
     print(f"Mascot: {team[2]}")
     print("\n")
 
-# Output
 print("\n -- DISPLAYING PLAYER RECORDS --")
 
 # Output for all players in player table
